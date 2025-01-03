@@ -25,5 +25,5 @@ This is a Retrieval-Augmented Generation (RAG) application designed to process `
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/rag-app.git
+git clone https://github.com/your-username/rag-app.git](https://github.com/codewithleo1/RAG-Application-with-Dynamic-Document-Uploads/
 cd rag-app
